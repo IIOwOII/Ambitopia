@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WhiteNoise
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -7227284671091020711, guid: fbe0ed8677ccf814cbabad7993cd3df8, type: 3}
+  - {fileID: 8450437970131916410, guid: fbe0ed8677ccf814cbabad7993cd3df8, type: 3}
+  - {fileID: 521718234883490311, guid: fbe0ed8677ccf814cbabad7993cd3df8, type: 3}
+  - {fileID: -6165702035070634676, guid: fbe0ed8677ccf814cbabad7993cd3df8, type: 3}
+  - {fileID: -2630817221951997807, guid: fbe0ed8677ccf814cbabad7993cd3df8, type: 3}
+  - {fileID: -7862890424094352577, guid: fbe0ed8677ccf814cbabad7993cd3df8, type: 3}
+  - {fileID: 60078643104503196, guid: fbe0ed8677ccf814cbabad7993cd3df8, type: 3}
+  - {fileID: 5026407351235122435, guid: fbe0ed8677ccf814cbabad7993cd3df8, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
